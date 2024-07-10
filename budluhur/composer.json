@@ -1,0 +1,7 @@
+{
+    "name": "harta/budluhur",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
